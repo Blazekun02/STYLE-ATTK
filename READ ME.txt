@@ -1,0 +1,5 @@
+1. Open the fonts folder
+2. Open the Pixel.ttf
+3. Click Install
+4. You are good to go
+5. Open the STYLEATTK.exe
